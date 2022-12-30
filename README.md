@@ -34,6 +34,7 @@
 
 - 🤯 G2Net Detecting Continuous Gravitational Waves. Link:https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves Status: ![9.jpg](https://img.shields.io/badge/done-84%25-green)
 - 🤯 TensorFlow - Help Protect the Great Barrier Reef. Link:https://www.kaggle.com/c/tensorflow-great-barrier-reef Status: ![9.jpg](https://img.shields.io/badge/done-73%25-green)
+- 👌 Rossmann Store Sales. Link:https://www.kaggle.com/competitions/rossmann-store-sales Status: ![9.jpg](https://img.shields.io/badge/done-100%25-green)
 
 
 
