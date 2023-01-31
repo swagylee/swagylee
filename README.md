@@ -3,7 +3,7 @@
 - 👀 I’m interested in statistical machine learning, reinforcement learning and doing some kaggle stuff.
 - 🌱 I’m currently learning deeper math and coding.
 - 💞️ I’m looking to do a summer research internship in EU/AS.
-- ❤️ I like playing video games, swimming, music, and everything about fashion.
+- ❤️ I like playing video games, swimming, and traveling.
 - 📫 How to reach me yinong.li@helsinki.fi
 
 
