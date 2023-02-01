@@ -30,6 +30,11 @@
 
 # Ongoing works
 
+**Courses**
+- 🤯 Bayesian Machine Learning
+- 🤯 Probabilistic Cognitive Modelling
+- 🤯 PGM
+
 **Kaggle competition and practice**
 
 - 🤯 OTTO – Multi-Objective Recommender System Link:https://www.kaggle.com/competitions/otto-recommender-system Status: ![9.jpg](https://img.shields.io/badge/done-84%25-green)
