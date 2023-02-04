@@ -34,6 +34,7 @@
 - 🤯 Bayesian Machine Learning
 - 🤯 Probabilistic Cognitive Modelling
 - 🤯 PGM
+- 🤯 Optimization in Deep Learning (Seminar Work)
 
 **Kaggle competition and practice**
 
